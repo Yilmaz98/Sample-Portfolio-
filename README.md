@@ -1,2 +1,2 @@
-# yilmaz.github.io
-Hello-world
+# hello-world
+My first Github Pages repository
